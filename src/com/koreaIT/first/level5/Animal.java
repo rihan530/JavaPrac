@@ -6,4 +6,18 @@ public class Animal {
 		System.out.println("울다");
 	}
 
+//	public void cry(Lion lion) {
+//		lion.crying();
+//		
+//	}
+//
+//	public void cry(Dog dog) {
+//		dog.crying();
+//		
+//	}
+//	
+//	public void cry(Cat cat) {
+//		cat.crying();
+//	}
+
 }
